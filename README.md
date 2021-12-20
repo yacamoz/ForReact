@@ -1,3 +1,6 @@
+## management System
+동빈 나 님의 공개된 강의를 따라해보는 프로젝트
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
